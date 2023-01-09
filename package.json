@@ -6,9 +6,9 @@
     "start": "node app"
   },
   "dependencies": {
-    "express": "3.0.0rc5",
+    "aws-snsclient": "*",
+    "express": "^4.17.3",
     "jade": "*",
-    "less-middleware": "*",
-    "aws-snsclient": "*"
+    "less-middleware": "*"
   }
 }
